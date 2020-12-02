@@ -1,4 +1,4 @@
-# C-Sharp-Coding-Projects
+# Code Summaries C-sharp Asp.NET MVC app
 
 
 Live Project
@@ -45,31 +45,38 @@ Startup.cs
             {
                 var result2 = userManager.AddToRole(userRole.Id, "User");
             }
+            
+            
 
 IdentityModels.cs
 
 
- [Required]
-        public string FirstName { get; set; }
-        [Required]
-        public string LastName { get; set; }
-        public string StreetAddress { get; set; }
-        public string City { get; set; }
-        public string State { get; set; }
-        public string ZipCode { get; set; }
-        public string Role { get; set; } = "User";            // role of user for website
+    [Required]
+           public string FirstName { get; set; }
+           [Required]
+           public string LastName { get; set; }
+           public string StreetAddress { get; set; }
+           public string City { get; set; }
+           public string State { get; set; }
+           public string ZipCode { get; set; }
+           public string Role { get; set; } = "User";            // role of user for website
+           
+           
 
 Added Photo title, create button and Options column
 
 
-   @*Create is for admin only*@
-    @*Create button to add new cast members*@
-    @if (User.IsInRole("Admin"))
-    {
-      <div class="text-center m-3">
-        <h3 class="d-inline-block"> Photos </h3>
-        <button class="iconBtn " onclick="location.href='@Url.Action("Create")'">
-        <i class="fa fa-plus-square fa-fw"></i>Create New
-        </button>
-      </div>
-    }
+          @*Create is for admin only*@
+          @*Create button to add new cast members*@
+          @if (User.IsInRole("Admin"))
+          {
+            <div class="text-center m-3">
+              <h3 class="d-inline-block"> Photos </h3>
+              <button class="iconBtn " onclick="location.href='@Url.Action("Create")'">
+              <i class="fa fa-plus-square fa-fw"></i>Create New
+              </button>
+            </div>
+          }
+          
+          
+          
