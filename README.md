@@ -14,9 +14,12 @@ Back End Stories
 
 Seed a new User Role to the Database from the Startup.cs and IdentityModels.cs
 
+
+
 Startup.cs
 
-   //Creating User role
+
+            //Creating User role
             if (!roleManager.RoleExists("User"))
             {
                 var role = new Microsoft.AspNet.Identity.EntityFramework.IdentityRole();
