@@ -1,7 +1,9 @@
 # Code Summary Live Project C-sharp Asp.NET MVC app
 
+Theatre Live Project App
 
-Live Project
+![resizedWebsiteFile](https://user-images.githubusercontent.com/60559963/101213271-f878e480-362e-11eb-83c0-246d4d5726ec.png)
+
 
 Introduction
 
@@ -12,7 +14,9 @@ Below are the descriptions of the stories I worked on, along with code snippets 
 Back End Stories
 
 
-Seed a new User Role to the Database from the Startup.cs and IdentityModels.cs
+Seed a new User Role to the Database from the Startup.cs and IdentityModels.cs 
+
+
 
 
 
