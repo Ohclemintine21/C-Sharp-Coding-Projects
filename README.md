@@ -13,11 +13,9 @@ Below are the descriptions of the stories I worked on, along with code snippets 
 
 Back End Stories
 
-
 Seed a new User Role to the Database from the Startup.cs and IdentityModels.cs 
 
-
-
+![Screenshot (193)](https://user-images.githubusercontent.com/60559963/101213646-881e9300-362f-11eb-8590-09da3094d4dd.png)
 
 
 Startup.cs
@@ -52,8 +50,7 @@ Startup.cs
             {
                 var result2 = userManager.AddToRole(userRole.Id, "User");
             }
-            
-            
+                      
 
 IdentityModels.cs
 
@@ -86,4 +83,5 @@ Added Photo title, create button and Options column
           }
           
           
+  In conclusion, this project was one of my first experiences working with a team to create and build a functional and interactive website. I learned how cloning an app can cause rosyln errors to occur over and over again and several ways to clean and rebuild the app to get it working. It was satisifying seeing all the pieces of code both Front End and Back End languages come together to create a functional/beautiful website.
           
