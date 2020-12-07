@@ -7,7 +7,7 @@ Theatre Project App
 
 Introduction
 
-Over the course of the past two weeks at the Tech Academy, I have been working with my peers as a team developing a full scale MVC/MVVM Web Application in C#. Working on this project was a great opportunity to learn how to fix bugs, clean and rebuild code, and add requested features to the app. I was able to obtain the skills as a good developer to work with what is given to create a quality product. My main focus for this Live Project was working on back end stories and successfully sumbitted a few. Everyone on my team had the chance to work on front end and back end stories depending on which course they had taken previously. I am prous of the work I have done on this project and know these skills will be very useful on many future projects.
+Over the course of the past two weeks, I have been working with my peers as a team developing a full scale MVC/MVVM Web Application in C#. Working on this project was a great opportunity to learn how to fix bugs, clean and rebuild code, and add requested features to the app. I was able to obtain the skills as a good developer to work with what is given to create a quality product. My main focus for this Live Project was working on back end stories and successfully sumbitted a few. Everyone on my team had the chance to work on front end and back end stories depending on which course they had taken previously. I am prous of the work I have done on this project and know these skills will be very useful on many future projects.
 
 Below are the descriptions of the stories I worked on, along with code snippets of the stories I've worked on.
 
