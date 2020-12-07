@@ -5,11 +5,12 @@ Theatre Project App
 ![resizedWebsiteFile](https://user-images.githubusercontent.com/60559963/101213271-f878e480-362e-11eb-83c0-246d4d5726ec.png)
 
 
-Introduction
+Project Overview
 
-Over the course of the past two weeks, I have been working with my peers as a team developing a full scale MVC/MVVM Web Application in C#. Working on this project was a great opportunity to learn how to fix bugs, clean and rebuild code, and add requested features to the app. I was able to obtain the skills as a good developer to work with what is given to create a quality product. My main focus for this Live Project was working on back end stories and successfully sumbitted a few. Everyone on my team had the chance to work on front end and back end stories depending on which course they had taken previously. I am prous of the work I have done on this project and know these skills will be very useful on many future projects.
+I worked with a team of developers to create a exceptional theatre app using a full scale MVC/MVVM Web Application in C#. Our job was to create functionality by using C#, Bootstrap, CSS, HTML, Javascript, Jquery, SQL Database Asp.NetFramework etc. My job was to create new user roles to separate cast member login from regular users. This was done by seeding the new user to the database from the Startup.cs and the IdentityModels.cs, which is shown below. 
 
-Below are the descriptions of the stories I worked on, along with code snippets of the stories I've worked on.
+Working on this project was a great opportunity to learn how to fix bugs, clean and rebuild code, and add requested features to the app. I was able to obtain the skills as a good developer to work with what is given to create a quality product. My main focus for this app was working on back end stories and successfully sumbitted a few. I am proud of the work I have done on this project and know these skills will be very useful on many future projects.
+
 
 Back End Stories
 
