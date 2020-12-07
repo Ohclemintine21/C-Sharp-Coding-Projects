@@ -7,7 +7,7 @@ Theatre Project App
 
 Project Overview
 
-I worked with a team of developers to create a exceptional theatre app using a full scale MVC/MVVM Web Application in C#. Our job was to create functionality by using C#, Bootstrap, CSS, HTML, Javascript, Jquery, SQL Database Asp.NetFramework etc. My job was to create new user roles to separate cast member login from regular users. This was done by seeding the new user to the database from the Startup.cs and the IdentityModels.cs, which is shown below. 
+I worked with a team of developers to create a exceptional theatre app using a full scale MVC/MVVM Web Application in C#. Our job was to create functionality by using C#, Bootstrap, CSS, HTML, Javascript, Jquery, SQL Database Asp.Net Framework etc. My job was to create new user roles to separate cast member login from regular users. This was done by seeding the new user to the database from the Startup.cs and the IdentityModels.cs, which is shown below. 
 
 Working on this project was a great opportunity to learn how to fix bugs, clean and rebuild code, and add requested features to the app. I was able to obtain the skills as a good developer to work with what is given to create a quality product. My main focus for this app was working on back end stories and successfully sumbitted a few. I am proud of the work I have done on this project and know these skills will be very useful on many future projects.
 
