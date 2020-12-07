@@ -1,6 +1,6 @@
-# Code Summary Live Project C-sharp Asp.NET MVC app
+# Code Summary C-sharp Asp.NET MVC app
 
-Theatre Live Project App
+Theatre Project App
 
 ![resizedWebsiteFile](https://user-images.githubusercontent.com/60559963/101213271-f878e480-362e-11eb-83c0-246d4d5726ec.png)
 
