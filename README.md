@@ -72,6 +72,8 @@ IdentityModels.cs
 
 Added Photo Title, Create Button and Options Column
 
+![Screenshot (191)](https://user-images.githubusercontent.com/60559963/101424386-e8236c80-38af-11eb-8f7d-f9e0d2ab08d4.png)
+
 
           @*Create is for admin only*@
           @*Create button to add new cast members*@
